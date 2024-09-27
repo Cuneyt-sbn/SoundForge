@@ -20,14 +20,19 @@ SoundForge is free a text-to-audio/music conversion tool. This project allows us
 
 - **🔄 Model Implementation**: Integration of the AudioCraft model for enhanced audio quality.
 - **🎶 Additional Features**: More functionalities like music generation and decoding.
+- **📈 Performance Optimization**: Enhance speed and efficiency of audio processing.
+- **🔍 Advanced Audio Editing**: Provide tools for fine-tuning and editing generated audio.
+- **📊 Analytics Dashboard**: Offer insights into usage patterns and audio generation statistics.
+- **🔄 Model Selector**: Choose from multiple AI models for audio generation.
 
 ## 🛠️ Tech Stack
-Next.js (TypeScript): For building the frontend.
-Tailwind CSS: For styling the application.
+**Next.js** (TypeScript): For building the frontend.
+**Tailwind CSS**: For styling the application.
 
 ## 📥 Installation
 
 Instructions for installation will be provided once the model implementation is complete.
+You can now install it locally to run/edit the application
 
 ## 🤝 Contributing
 
