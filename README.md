@@ -26,8 +26,8 @@ SoundForge is free a text-to-audio/music conversion tool. This project allows us
 - **🔄 Model Selector**: Choose from multiple AI models for audio generation.
 
 ## 🛠️ Tech Stack
-**Next.js** (TypeScript): For building the frontend.
-**Tailwind CSS**: For styling the application.
+- **Next.js** (TypeScript): For building the frontend.
+- **Tailwind CSS**: For styling the application.
 
 ## 📥 Installation
 
