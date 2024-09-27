@@ -2,6 +2,8 @@
 
 SoundForge is free a text-to-audio/music conversion tool. This project allows users to input text and convert it into audio. The model implementation is currently in progress.
 
+![Knipsel](https://github.com/user-attachments/assets/c26666d4-2797-44b3-9d88-fb0a50131f6c)
+
 ## ✨ Features
 
 - **🗣️ Text-to-Audio Conversion**: Enter text and convert it into audio easily.
