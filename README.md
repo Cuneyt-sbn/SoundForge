@@ -67,10 +67,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the GNU General Public License v3.0.
 
-## 📧 Contact
-
-For any questions or feedback, please contact us at [97060704@st.deltion.nl](mailto:97060704@st.deltion.nl).
-
 ---
 
 *© 2024 SoundForge. All rights reserved.*
